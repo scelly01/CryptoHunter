@@ -10,7 +10,7 @@ const useStyles = makeStyles(() =>({
         height: 400,
         display: "flex",
         flexDirection: "column",
-        paddingTop: 25,
+        padding: "1vw 10vw",
         justifyContent: "space-around",
     },
     tagline: {
